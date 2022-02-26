@@ -36,6 +36,6 @@ int main(){
     cin>>key;
 
     cout <<"found at:-> "<<bs(a,n,key);
-    
+    cout<<"kya hal hai";
     return 0;
 }
