@@ -37,5 +37,6 @@ int main(){
 
     cout <<"found at:-> "<<bs(a,n,key);
     cout<<"kya hal hai";
+    cout<<"multiply";
     return 0;
 }
